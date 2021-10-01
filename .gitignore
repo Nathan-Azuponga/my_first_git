@@ -69,6 +69,8 @@ $RECYCLE.BIN/
 *.lnk
 
 
-./out
+out
+
+.idea
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,java
